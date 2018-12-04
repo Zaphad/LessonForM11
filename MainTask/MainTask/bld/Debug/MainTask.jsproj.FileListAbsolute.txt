@@ -1,0 +1,17 @@
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bin\Debug\ReverseMap\resources.pri
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bin\Debug\AppxManifest.xml
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bin\Debug\MainTask.build.appxrecipe
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\MainTask.jsproj.CoreCompileInputs.cache
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\ResourceHandlingTask.state
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\priconfig.xml
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\priconfig.xml.intermediate
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\layout.resfiles
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\layout.resfiles.intermediate
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\resources.resfiles
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\resources.resfiles.intermediate
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\pri.resfiles
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\pri.resfiles.intermediate
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\qualifiers.txt
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\qualifiers.txt.intermediate
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\ProjectArchitectures.txt

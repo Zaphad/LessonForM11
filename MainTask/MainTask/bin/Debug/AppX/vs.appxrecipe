@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BIGBAN</Machine>
+    <WindowsUser>zapha</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>559a5aef-74be-4b73-ad20-3c3ef7527b1a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=zapha</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>FC883F35BF61F33FCDAEE992F3592153B876F8E96C7A91C8399079FF31DB0CCE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>559a5aef-74be-4b73-ad20-3c3ef7527b1a_1.0.0.0_neutral__z3an9qzpswtzy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>559a5aef-74be-4b73-ad20-3c3ef7527b1a_z3an9qzpswtzy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>559a5aef-74be-4b73-ad20-3c3ef7527b1a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zapha</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-03T20:29:06.875</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\Images.html">
+      <PackagePath>Images.html</PackagePath>
+      <Modified>2018-01-17T18:54:58.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-12-04T14:55:57.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\Lists.html">
+      <PackagePath>Lists.html</PackagePath>
+      <Modified>2018-01-17T18:54:58.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\Menu.html">
+      <PackagePath>Menu.html</PackagePath>
+      <Modified>2018-12-03T19:13:22.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\Table.html">
+      <PackagePath>Table.html</PackagePath>
+      <Modified>2018-12-04T18:49:52.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\Text.html">
+      <PackagePath>Text.html</PackagePath>
+      <Modified>2018-12-04T14:56:45.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-01-17T19:58:57.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-17T19:58:57.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-17T19:58:57.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-17T19:58:57.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-17T19:58:57.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-17T19:58:57.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-17T19:58:57.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-12-03T11:17:09.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-12-04T14:54:31.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zapha\Documents\Visual Studio 2017\Projects\MainTask\MainTask\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-03T20:29:06.207</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
